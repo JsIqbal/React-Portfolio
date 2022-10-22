@@ -178,7 +178,7 @@ class Home extends Component {
                                         </span>
                                         <span class="col-lg-10 border-li">
                                             <h6 class="name">Location</h6>
-                                            <p class="pera">4155 Mann Island, Liverpool, United Kingdom.</p>
+                                            <p class="pera">Sector-10, Uttara, Dhaka-1230, Bangladesh</p>
                                         </span>
                                     </li>
                                     <li class="row">
@@ -189,7 +189,7 @@ class Home extends Component {
                                         </span>
                                         <span class="col-lg-10 border-li">
                                             <h6 class="name">Call Me</h6>
-                                            <p class="pera"><a href="#">+44 1632 967704</a></p>
+                                            <p class="pera"><a href="#">+880 140-3229479</a></p>
                                         </span>
                                     </li>
                                     <li class="row">
@@ -200,7 +200,7 @@ class Home extends Component {
                                         </span>
                                         <span class="col-lg-10 border-li">
                                             <h6 class="name">Email Me</h6>
-                                            <p class="pera"><a href="#">Iqbal@example.com</a></p>
+                                            <p class="pera"><a href="#">javascriptiqbal@gmail.com</a></p>
                                         </span>
                                     </li>
                                 </ul>
@@ -214,7 +214,7 @@ class Home extends Component {
                 <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <p>© M. Iqbal 2020 <span>|</span> All Right Reserved</p>
+                        <p>© M. Iqbal 2022 <span>|</span> All Right Reserved</p>
                     </div>
                 </div>
                 </div>

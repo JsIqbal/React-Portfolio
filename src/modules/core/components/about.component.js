@@ -39,17 +39,17 @@ function About () {
                                 </div>
                                 <div class="col-lg-6 single-info">
                                     <span>Email:</span>
-                                    <p><a href="#">Iqbal@example.com</a></p>
+                                    <p><a href="#">javascriptiqbal@gmail.com</a></p>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="col-lg-6 single-info">
                                     <span>Age:</span>
-                                    <p>22</p>
+                                    <p>25</p>
                                 </div>
                                 <div class="col-lg-6 single-info">
                                     <span>From:</span>
-                                    <p>Liverpool, UK</p>
+                                    <p>Sector-10, Uttara, Dhaka-1230, BD</p>
                                 </div>
                             </div>
                         </div>

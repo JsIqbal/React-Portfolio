@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './components/home.component';
 import About from './components/about.component';
@@ -7,19 +6,17 @@ import Skill from './components/skill.component';
 import Portfolio from './components/portfolio.component';
 import Blog from './components/blog.component';
 
-class App extends Component {
-    render() { 
-        return (
-            <Routes>
-                <Route path='/' element={<Home />} />
-                <Route path='/about' element={<About />} />
-                <Route path='/resume' element={<Resume />} />
-                <Route path='/skill' element={<Skill />} />
-                <Route path='/portfolio' element={<Portfolio />} />
-                <Route path='/blog' element={<Blog />} />
-            </Routes>
-        );
-    }
+function App () {
+    return (
+        <Routes>
+            <Route path='/' element={<Home />} />
+            <Route path='/about' element={<About />} />
+            <Route path='/resume' element={<Resume />} />
+            <Route path='/skill' element={<Skill />} />
+            <Route path='/portfolio' element={<Portfolio />} />
+            <Route path='/blog' element={<Blog />} />
+        </Routes>
+    );
 }
  
 export default App;

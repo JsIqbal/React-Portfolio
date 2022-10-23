@@ -36,6 +36,22 @@ function Skill () {
                                 <p> <i class="fas fa-mobile-alt"></i> responsive </p>
                                 <div class="progress-metr res"></div>
                             </div>
+                            <div class="none-fade">
+                                <p><i class="fa-brands fa-js"></i> js</p>
+                                <div class="progress-metr html"></div>
+                            </div>
+                            <div class="none-fade">
+                                <p><i class="fa-brands fa-node-js"></i>Node.js</p>
+                                <div class="progress-metr css"></div>
+                            </div>
+                            <div class="none-fade">
+                                <p><i class="fa-brands fa-react"></i>React.js</p>
+                                <div class="progress-metr bootstrap"></div>
+                            </div>
+                            <div class="none-fade">
+                                <p><i class="fa-solid fa-database"></i>mysql</p>
+                                <div class="progress-metr res"></div>
+                            </div>
                         </div>
                     </div>
                 </div>
